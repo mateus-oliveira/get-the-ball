@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 2277441672525289627}
   - component: {fileID: 8284608834982571115}
   - component: {fileID: 638083796542049212}
+  - component: {fileID: 4917428172850177513}
   m_Layer: 0
   m_Name: Hing
   m_TagString: Untagged
@@ -148,9 +149,9 @@ HingeJoint2D:
   m_ConnectedRigidBody: {fileID: 0}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
-  m_AutoConfigureConnectedAnchor: 1
-  m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0, y: 0}
+  m_AutoConfigureConnectedAnchor: 0
+  m_Anchor: {x: 0, y: -2.49}
+  m_ConnectedAnchor: {x: 0.00000043125783, y: 2.4445508}
   m_UseMotor: 0
   m_Motor:
     m_MotorSpeed: 0
@@ -171,3 +172,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43244251fb4f8cebe9195dce0f5fb1f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mainCamera: {fileID: 0}
+--- !u!233 &4917428172850177513
+HingeJoint2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8998102703222709883}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_EnableCollision: 0
+  m_ConnectedRigidBody: {fileID: 0}
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_AutoConfigureConnectedAnchor: 0
+  m_Anchor: {x: 0.010334351, y: 2.4371336}
+  m_ConnectedAnchor: {x: -8.4792694e-11, y: 1.5480001}
+  m_UseMotor: 0
+  m_Motor:
+    m_MotorSpeed: 0
+    m_MaximumMotorForce: 10000
+  m_UseLimits: 0
+  m_AngleLimits:
+    m_LowerAngle: 0
+    m_UpperAngle: 359
