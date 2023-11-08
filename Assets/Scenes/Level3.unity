@@ -131,6 +131,18 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
       propertyPath: m_ConnectedRigidBody
       value: 
       objectReference: {fileID: 292448440}
@@ -314,7 +326,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5729172190345212665, guid: f12683d60944d3ad1ac05f1f6fb47f0c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 2.821
       objectReference: {fileID: 0}
     - target: {fileID: 5729172190345212665, guid: f12683d60944d3ad1ac05f1f6fb47f0c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -357,6 +369,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
       propertyPath: m_ConnectedRigidBody
       value: 
@@ -557,6 +581,18 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 183642555581007044, guid: c06748364f3db6ae49b6e289ae283d57, type: 3}
       propertyPath: m_ConnectedRigidBody
       value: 
       objectReference: {fileID: 292448440}
@@ -651,7 +687,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5729172190345212665, guid: f12683d60944d3ad1ac05f1f6fb47f0c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 2.821
       objectReference: {fileID: 0}
     - target: {fileID: 5729172190345212665, guid: f12683d60944d3ad1ac05f1f6fb47f0c, type: 3}
       propertyPath: m_LocalPosition.z
